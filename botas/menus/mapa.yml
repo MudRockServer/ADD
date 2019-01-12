@@ -1,0 +1,132 @@
+﻿title: 'Elige un lugar'
+height: 6
+bind: botas_aladas
+items:
+  1:
+    item: papel
+    text:
+    - '&fAldea del Ponto'
+    - '&fClick para abrir'
+    click: 'menu_adp'
+    close: true
+  2:
+    item: papel
+    text:
+    - '&fForrester'
+    - '&fClick para abrir'
+    condition: 'principal.level_10'
+    click: 'menu_f'
+    close: true
+  9:
+    item: papel
+    text:
+    - '&fForrester'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c10'
+    condition: '!principal.level_10'
+    close: false
+  3:
+    item: papel
+    text:
+    - '&fSueño de Annie'
+    - '&fClick para abrir'
+    condition: 'principal.level_15'
+    click: 'menu_sda'
+    close: true
+  10:
+    item: mapa
+    text:
+    - '&fSueño de Annie'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c15'
+    condition: '!principal.level_15'
+    close: false
+  4:
+    item: papel
+    text:
+    - '&fCañón de la Esperanza'
+    - '&fClick para abrir'
+    condition: 'principal.level_20'
+    click: 'menu_cdle'
+    close: true
+  11:
+    item: mapa
+    text:
+    - '&fCañón de la Esperanza'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c20'
+    condition: '!principal.level_20'
+    close: false
+  5:
+    item: papel
+    text:
+    - '&fValle de Pérgolas'
+    - '&fClick para abrir'
+    condition: 'principal.level_30'
+    click: 'menu_vdp'
+    close: true
+  12:
+    item: mapa
+    text:
+    - '&fValle de Pérgolas'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c30'
+    condition: '!principal.level_30'
+    close: false
+  6:
+    item: papel
+    text:
+    - '&fTierras Sacras'
+    - '&fClick para abrir'
+    condition: 'principal.level_35'
+    click: 'menu_ts'
+    close: true
+  13:
+    item: mapa
+    text:
+    - '&fTierras Sacras'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c35'
+    condition: '!principal.level_35'
+    close: false
+  7:
+    item: papel
+    text:
+    - '&fSenda de Castia'
+    - '&fClick para abrir'
+    condition: 'principal.level_40'
+    click: 'menu_sdc'
+    close: true
+  14:
+    item: mapa
+    text:
+    - '&fSenda de Castia'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c40'
+    condition: '!principal.level_40'
+    close: false
+  8:
+    item: papel
+    text:
+    - '&fMontaña Cimalbina'
+    - '&fClick para abrir'
+    condition: 'principal.level_45'
+    click: 'menu_mc'
+    close: true
+  15:
+    item: mapa
+    text:
+    - '&fMontaña Cimalbina'
+    - '&4Bloqueado hasta'
+    - '&4el nivel &c45'
+    condition: '!principal.level_45'
+    close: false
+slots:
+  51: '1'
+  43: '2,9'
+  53: '3,10'
+  33: '4,11'
+  25: '5,12'
+  16: '6,13'
+  7: '7,14'
+  8: '8,15'
