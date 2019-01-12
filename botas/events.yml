@@ -16,41 +16,40 @@ menu_ts2: menu open ts
 menu_sdc2: menu open sdc
 menu_mc2: menu open mc
 
-adp_john: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -324;67;138;world;178;8
-adp_luna: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -373;71;113;world;92;7
-adp_jack: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -362;66;150;world;-150;9
-adp_sam: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -389;70;149;world;124;27
-adp_lawrence: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -401;74;120;world;91;11
-adp_pociones: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -375;75;93;world;-93;13
-adp_harry: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -408;75;133;world;179;28
-adp_rita: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -463;84;87;world;90;25
-adp_annie: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -470;90;66;world;85;13
-adp_terry: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -372;73;31;world;92;12
-adp_heraldo: run ^folder musicas ^folder musica_adp delay:1 ^take botas_aladas ^teleport -389;71;116;world;171;16
+adp_john: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -324;67;138;world;178;8
+adp_luna: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -373;71;113;world;92;7
+adp_jack: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -362;66;150;world;-150;9
+adp_sam: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -389;70;149;world;124;27
+adp_lawrence: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -401;74;120;world;91;11
+adp_pociones: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -375;75;93;world;-93;13
+adp_harry: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -408;75;133;world;179;28
+adp_rita: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -463;84;87;world;90;25
+adp_annie: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -470;90;66;world;85;13
+adp_terry: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -372;73;31;world;92;12
+adp_heraldo: run ^folder m_adp delay:1 ^take botas_aladas ^teleport -389;71;116;world;171;16
 
-f_vincent: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -68;78;-731;world;89;7
-f_edward: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -171;82;-676;world;3;8
-f_shadalo: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -151;77;-676;world;-179;8
-f_morgan: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -33;67;-669;world;102;7
-f_laye: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -194;77;-654;world;90;-16
-f_nadifayla: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -166;77;-659;world;177;7
-f_capitan: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -100;75;-654;world;-90;8
-f_hernan: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -66;67;-637;world;-139;8
-f_janis: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -35;67;-637;world;170;6
-f_herrero: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport 44;67;-606;world;-174;8
-f_ingrid: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport 66;67;-588;world;-153;6
-f_kathryn: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -162;77;-635;world;81;6
-f_susan: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -148;77;-634;world;1;8
-f_almacen: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -53;67;-601;world;90;8
-f_carlos: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -46;67;-587;world;-105;8
-f_nancy: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -169;77;-625;world;-51;11
-f_merlin: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -41;67;-538;world;2;8
-f_mercader: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport -21;67;-555;world;-179;8
-f_jackson: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport 31;75;-520;world;-91;6
-f_donald: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport 19;67;-541;world;-179;9
-f_douglas: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport 61;67;-543;world;179;7
-f_kors: run ^folder musicas ^folder musica_f delay:1 ^take botas_aladas ^teleport 31;76;-511;world;-49;8
+f_vincent: run ^folder m_f delay:1 ^take botas_aladas ^teleport -68;78;-731;world;89;7
+f_edward: run ^folder m_f delay:1 ^take botas_aladas ^teleport -171;82;-676;world;3;8
+f_shadalo: run ^folder m_f delay:1 ^take botas_aladas ^teleport -151;77;-676;world;-179;8
+f_morgan: run ^folder m_f delay:1 ^take botas_aladas ^teleport -33;67;-669;world;102;7
+f_laye: run ^folder m_f delay:1 ^take botas_aladas ^teleport -194;77;-654;world;90;-16
+f_nadifayla: run ^folder m_f delay:1 ^take botas_aladas ^teleport -166;77;-659;world;177;7
+f_capitan: run ^folder m_f delay:1 ^take botas_aladas ^teleport -100;75;-654;world;-90;8
+f_hernan: run ^folder m_f delay:1 ^take botas_aladas ^teleport -66;67;-637;world;-139;8
+f_janis: run ^folder m_f delay:1 ^take botas_aladas ^teleport -35;67;-637;world;170;6
+f_herrero: run ^folder m_f delay:1 ^take botas_aladas ^teleport 44;67;-606;world;-174;8
+f_ingrid: run ^folder m_f delay:1 ^take botas_aladas ^teleport 66;67;-588;world;-153;6
+f_kathryn: run ^folder m_f delay:1 ^take botas_aladas ^teleport -162;77;-635;world;81;6
+f_susan: run ^folder m_f delay:1 ^take botas_aladas ^teleport -148;77;-634;world;1;8
+f_almacen: run ^folder m_f delay:1 ^take botas_aladas ^teleport -53;67;-601;world;90;8
+f_carlos: run ^folder m_f delay:1 ^take botas_aladas ^teleport -46;67;-587;world;-105;8
+f_nancy: run ^folder m_f delay:1 ^take botas_aladas ^teleport -169;77;-625;world;-51;11
+f_merlin: run ^folder m_f delay:1 ^take botas_aladas ^teleport -41;67;-538;world;2;8
+f_mercader: run ^folder m_f delay:1 ^take botas_aladas ^teleport -21;67;-555;world;-179;8
+f_jackson: run ^folder m_f delay:1 ^take botas_aladas ^teleport 31;75;-520;world;-91;6
+f_donald: run ^folder m_f delay:1 ^take botas_aladas ^teleport 19;67;-541;world;-179;9
+f_douglas: run ^folder m_f delay:1 ^take botas_aladas ^teleport 61;67;-543;world;179;7
+f_kors: run ^folder m_f delay:1 ^take botas_aladas ^teleport 31;76;-511;world;-49;8
 
-musicas: run ^objective remove principal.m_adp ^objective remove principal.m_f ^objective remove principal.m_mazmorra ^objective remove principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts
-musica_adp: objective start principal.m_adp
-musica_f: objective start principal.m_f
+m_adp: run ^objective start principal.m_adp ^objective remove principal.m_f ^objective remove principal.m_mazmorra ^objective remove principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts
+m_f: run ^objective remove principal.m_adp ^objective start principal.m_f ^objective remove principal.m_mazmorra ^objective remove principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts
