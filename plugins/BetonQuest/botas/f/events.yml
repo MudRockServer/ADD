@@ -1,0 +1,26 @@
+f_vincent: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -68;78;-731;world;89;7
+f_edward: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -171;82;-676;world;3;8
+f_shadalo: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -151;77;-676;world;-179;8
+f_morgan: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -33;67;-669;world;102;7
+f_laye: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -194;77;-654;world;90;-16
+f_nadifayla: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -166;77;-659;world;177;7
+f_capitan: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -100;75;-654;world;-90;8
+f_hernan: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -66;67;-637;world;-139;8
+f_janis: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -35;67;-637;world;170;6
+f_herrero: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport 44;67;-606;world;-174;8
+f_ingrid: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport 66;67;-588;world;-153;6
+f_kathryn: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -162;77;-635;world;81;6
+f_susan: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -148;77;-634;world;1;8
+f_almacen: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -53;67;-601;world;90;8
+f_carlos: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -46;67;-587;world;-105;8
+f_nancy: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -169;77;-625;world;-51;11
+f_merlin: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -41;67;-538;world;2;8
+f_mercader: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -21;67;-555;world;-179;8
+f_jackson: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport 31;75;-520;world;-91;6
+f_donald: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport 19;67;-541;world;-179;9
+f_douglas: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport 61;67;-543;world;179;7
+f_kors: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport 31;76;-511;world;-49;8
+f_sagrado: run ^folder m_f ^take botas.mapa-botas_aladas ^teleport -133;78;-731;world;90;7
+
+
+m_f: run ^objective remove principal.m_adp ^objective start principal.m_f ^objective remove principal.m_mazmorra ^objective remove principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts

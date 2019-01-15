@@ -1,0 +1,85 @@
+title: 'Cañón de la Esperanza'
+height: 6
+items:
+  1:
+    item: botas.mapa-player
+    text:
+    - '&6Kane'
+    - '&fClick para ir'
+    click: 'cdle_kane'
+    close: true
+  2:
+    item: botas.mapa-player
+    text:
+    - '&6Cartan'
+    - '&fClick para ir'
+    click: 'cdle_cartan'
+    close: true
+  3:
+    item: botas.mapa-soldado
+    text:
+    - '&6Guardia Andrew'
+    - '&fClick para ir'
+    click: 'cdle_andrew'
+    close: true
+  4:
+    item: botas.mapa-player
+    text:
+    - '&6Jerry el vago'
+    - '&fClick para ir'
+    click: 'cdle_jerry'
+    close: true
+  5:
+    item: botas.mapa-noble
+    text:
+    - '&6Millie'
+    - '&fClick para ir'
+    click: 'cdle_millie'
+    close: true
+  6:
+    item: botas.mapa-soldado
+    text:
+    - '&6Guardia Sean'
+    - '&fClick para ir'
+    click: 'cdle_sean'
+    close: true
+  7:
+    item: botas.mapa-noble
+    text:
+    - '&6Kate'
+    - '&fClick para ir'
+    click: 'cdle_kate'
+    close: true
+  8:
+    item: botas.mapa-soldado
+    text:
+    - '&6Guardia Tony'
+    - '&eMazmorra'
+    - '&fClick para ir'
+    click: 'cdle_tony'
+    close: true
+  9:
+    item: botas.mapa-player
+    text:
+    - '&6Tom el borrachín'
+    - '&fClick para ir'
+    click: 'cdle_tom'
+    close: true
+  10:
+    item: botas.mapa-soldado
+    text:
+    - '&6Guardia Chris'
+    - '&fClick para ir'
+    click: 'cdle_chris'
+    close: true
+slots:
+  3: '1'
+  7: '2'
+  11: '3'
+  19: '4'
+  24: '5'
+  27: '6'
+  34: '7'
+  37: '8'
+  42: '9'
+  46: '10'

@@ -1,0 +1,68 @@
+﻿title: 'Sueño de Annie'
+height: 6
+items:
+  1:
+    item: botas.mapa-eileen
+    text:
+    - '&6Eileen Sibil'
+    - '&fClick para ir'
+    click: 'sda_eileen'
+    close: true
+  2:
+    item: botas.mapa-gerald
+    text:
+    - '&6Gerald'
+    - '&fClick para ir'
+    click: 'sda_gerald'
+    close: true
+  3:
+    item: botas.mapa-player
+    text:
+    - '&6Annie (de niña)'
+    - '&fClick para ir'
+    click: 'sda_annie'
+    close: true
+  4:
+    item: botas.mapa-player
+    text:
+    - '&6Jace'
+    - '&fClick para ir'
+    click: 'sda_jace'
+    close: true
+  5:
+    item: botas.mapa-lawrence
+    text:
+    - '&6Lawrence'
+    - '&fClick para ir'
+    click: 'sda_lawrence'
+    close: true
+  6:
+    item: botas.mapa-player
+    text:
+    - '&6James'
+    - '&fClick para ir'
+    click: 'sda_james'
+    close: true
+  7:
+    item: botas.mapa-player
+    text:
+    - '&6Macbeth'
+    - '&fClick para ir'
+    click: 'sda_macbeth'
+    close: true
+  8:
+    item: botas.mapa-player
+    text:
+    - '&6Annabelle'
+    - '&fClick para ir'
+    click: 'sda_annabelle'
+    close: true
+slots:
+  6: '1'
+  18: '2'
+  21: '3'
+  23: '4'
+  30: '5'
+  32: '6'
+  39: '7'
+  49: '8'

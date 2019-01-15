@@ -1,0 +1,13 @@
+cdle_kane: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 58;82;-1082;world;108;7
+cdle_cartan: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 133;84;-1054;world;-58;7
+cdle_andrew: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 36;86;-1051;world;-173;11
+cdle_jerry: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 20;82;-1018;world;78;9
+cdle_millie: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 97;83;-1002;world;151;27
+cdle_sean: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 11;82;-1006;world;-178;7
+cdle_kate: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 110;82;-970;world;-173;10
+cdle_tony: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 28;76;-994;world;-47;12
+cdle_tom: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 73;81;-969;world;0;10
+cdle_chris: run ^folder m_cdle ^take botas.mapa-botas_aladas ^teleport 17;79;-967;world;-97;8
+
+
+m_cdle: run ^objective remove principal.m_adp ^objective remove principal.m_f ^objective remove principal.m_mazmorra ^objective start principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts

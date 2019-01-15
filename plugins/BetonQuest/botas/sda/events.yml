@@ -1,0 +1,10 @@
+sda_eileen: run ^folder m_sda ^take botas_aladas ^teleport -377;73;-452;world;90;7
+sda_gerald: run ^folder m_sda ^take botas_aladas ^teleport -476;90;-421;world;98;-6
+sda_annie: run ^folder m_sda ^take botas_aladas ^teleport -408;74;-383;world;175;21
+sda_jace: run ^folder m_sda ^take botas_aladas ^teleport -392;77;-401;world;148;10
+sda_lawrence: run ^folder m_sda ^take botas_aladas ^teleport -405;74;-365;world;90;11
+sda_james: run ^folder m_sda ^take botas_aladas ^teleport -385;71;-367;world;135;10
+sda_macbeth: run ^folder m_sda ^take botas_aladas ^teleport -406;74;-349;world;-178;10
+sda_annabelle: run ^folder m_sda ^take botas_aladas ^teleport -393;70;-335;world;-178;10
+
+m_sda: run ^objective remove principal.m_adp ^objective remove principal.m_f ^objective start principal.m_mazmorra ^objective remove principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts

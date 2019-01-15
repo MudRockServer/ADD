@@ -1,0 +1,14 @@
+adp_john: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -324;67;138;world;178;8
+adp_luna: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -373;71;113;world;92;7
+adp_jack: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -362;66;150;world;-150;9
+adp_sam: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -389;70;149;world;124;27
+adp_lawrence: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -401;74;120;world;91;11
+adp_pociones: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -375;75;93;world;-93;13
+adp_harry: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -408;75;133;world;179;28
+adp_rita: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -463;84;87;world;90;25
+adp_annie: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -470;90;66;world;85;13
+adp_terry: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -372;73;31;world;92;12
+adp_heraldo: run ^folder m_adp ^take botas.mapa-botas_aladas ^teleport -389;71;116;world;171;16
+
+
+m_adp: run ^objective start principal.m_adp ^objective remove principal.m_f ^objective remove principal.m_mazmorra ^objective remove principal.m_cdle ^objective remove principal.m_vdp ^objective remove principal.m_ts
